@@ -1,0 +1,10 @@
+The following open source projects are referenced by this project:
+
+gorilla/mux (BSD 3-Clause) https://github.com/gorilla/mux
+https://github.com/gorilla/mux/blob/master/LICENSE
+
+project-alvarium/go-sdk (Apache 2.0) https://github.com/project-alvarium/go-sdk
+https://github.com/project-alvarium/go-sdk/blob/master/LICENSE
+
+stretchr/testify (MIT) https://github.com/stretchr/testify
+https://github.com/stretchr/testify/blob/master/LICENSE
