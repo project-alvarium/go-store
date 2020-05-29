@@ -17,12 +17,12 @@ package pkg
 import (
 	"testing"
 
-	"github.com/michaelestrin/go-store/internal/pkg/identity/url"
-	"github.com/michaelestrin/go-store/internal/pkg/routable"
-	"github.com/michaelestrin/go-store/internal/pkg/routes/append"
-	"github.com/michaelestrin/go-store/internal/pkg/routes/create"
-	"github.com/michaelestrin/go-store/internal/pkg/routes/find"
-	testInternal "github.com/michaelestrin/go-store/internal/pkg/test"
+	"github.com/project-alvarium/go-store/internal/pkg/identity/url"
+	"github.com/project-alvarium/go-store/internal/pkg/routable"
+	"github.com/project-alvarium/go-store/internal/pkg/routes/append"
+	"github.com/project-alvarium/go-store/internal/pkg/routes/create"
+	"github.com/project-alvarium/go-store/internal/pkg/routes/find"
+	testInternal "github.com/project-alvarium/go-store/internal/pkg/test"
 
 	"github.com/project-alvarium/go-sdk/pkg/annotation"
 	metadataFactory "github.com/project-alvarium/go-sdk/pkg/annotation/metadata/factory"

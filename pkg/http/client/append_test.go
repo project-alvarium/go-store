@@ -18,17 +18,17 @@ import (
 	"errors"
 	"testing"
 
+	"github.com/project-alvarium/go-store/internal/pkg/identity/url"
+	"github.com/project-alvarium/go-store/internal/pkg/routes/append"
+	testInternal "github.com/project-alvarium/go-store/internal/pkg/test"
+	"github.com/project-alvarium/go-store/pkg/http/stub"
+
 	"github.com/project-alvarium/go-sdk/pkg/annotation"
 	metadataStub "github.com/project-alvarium/go-sdk/pkg/annotation/metadata/stub"
 	"github.com/project-alvarium/go-sdk/pkg/annotation/uniqueprovider/ulid"
 	identityHash "github.com/project-alvarium/go-sdk/pkg/identity/hash"
 	"github.com/project-alvarium/go-sdk/pkg/status"
 	"github.com/project-alvarium/go-sdk/pkg/test"
-
-	"github.com/michaelestrin/go-store/internal/pkg/identity/url"
-	"github.com/michaelestrin/go-store/internal/pkg/routes/append"
-	testInternal "github.com/michaelestrin/go-store/internal/pkg/test"
-	"github.com/michaelestrin/go-store/pkg/http/stub"
 
 	"github.com/stretchr/testify/assert"
 )

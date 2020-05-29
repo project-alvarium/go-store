@@ -18,10 +18,10 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/michaelestrin/go-store/internal/pkg/identity/url"
-	"github.com/michaelestrin/go-store/internal/pkg/routes/create"
-	testInternal "github.com/michaelestrin/go-store/internal/pkg/test"
-	"github.com/michaelestrin/go-store/pkg/http/stub"
+	"github.com/project-alvarium/go-store/internal/pkg/identity/url"
+	"github.com/project-alvarium/go-store/internal/pkg/routes/create"
+	testInternal "github.com/project-alvarium/go-store/internal/pkg/test"
+	"github.com/project-alvarium/go-store/pkg/http/stub"
 
 	"github.com/project-alvarium/go-sdk/pkg/annotation"
 	metadataStub "github.com/project-alvarium/go-sdk/pkg/annotation/metadata/stub"

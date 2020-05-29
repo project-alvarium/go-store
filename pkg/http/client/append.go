@@ -17,7 +17,7 @@ package client
 import (
 	"encoding/json"
 
-	"github.com/michaelestrin/go-store/internal/pkg/routes/append"
+	"github.com/project-alvarium/go-store/internal/pkg/routes/append"
 
 	"github.com/project-alvarium/go-sdk/pkg/annotation"
 	"github.com/project-alvarium/go-sdk/pkg/identity"

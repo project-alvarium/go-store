@@ -1,4 +1,4 @@
-module github.com/michaelestrin/go-store
+module github.com/project-alvarium/go-store
 
 go 1.13
 

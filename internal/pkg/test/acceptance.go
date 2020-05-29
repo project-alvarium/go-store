@@ -18,7 +18,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/michaelestrin/go-store/internal/pkg/routable"
+	"github.com/project-alvarium/go-store/internal/pkg/routable"
 
 	"github.com/gorilla/mux"
 )

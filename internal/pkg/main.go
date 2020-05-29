@@ -18,9 +18,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/michaelestrin/go-store/internal/pkg/interrupt"
-	"github.com/michaelestrin/go-store/internal/pkg/routable"
-	"github.com/michaelestrin/go-store/internal/pkg/server"
+	"github.com/project-alvarium/go-store/internal/pkg/interrupt"
+	"github.com/project-alvarium/go-store/internal/pkg/routable"
+	"github.com/project-alvarium/go-store/internal/pkg/server"
 
 	"github.com/gorilla/mux"
 )

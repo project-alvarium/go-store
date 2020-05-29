@@ -18,11 +18,11 @@ import (
 	"context"
 	"flag"
 
-	"github.com/michaelestrin/go-store/internal/pkg"
-	"github.com/michaelestrin/go-store/internal/pkg/routable"
-	"github.com/michaelestrin/go-store/internal/pkg/routes/append"
-	"github.com/michaelestrin/go-store/internal/pkg/routes/create"
-	"github.com/michaelestrin/go-store/internal/pkg/routes/find"
+	"github.com/project-alvarium/go-store/internal/pkg"
+	"github.com/project-alvarium/go-store/internal/pkg/routable"
+	"github.com/project-alvarium/go-store/internal/pkg/routes/append"
+	"github.com/project-alvarium/go-store/internal/pkg/routes/create"
+	"github.com/project-alvarium/go-store/internal/pkg/routes/find"
 
 	metadataFactory "github.com/project-alvarium/go-sdk/pkg/annotation/metadata/factory"
 	"github.com/project-alvarium/go-sdk/pkg/annotation/store/memory"

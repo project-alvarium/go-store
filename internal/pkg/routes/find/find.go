@@ -20,7 +20,7 @@ import (
 	"net/http"
 	"net/url"
 
-	urlIdentity "github.com/michaelestrin/go-store/internal/pkg/identity/url"
+	urlIdentity "github.com/project-alvarium/go-store/internal/pkg/identity/url"
 
 	"github.com/project-alvarium/go-sdk/pkg/annotation/store"
 	"github.com/project-alvarium/go-sdk/pkg/identity"
